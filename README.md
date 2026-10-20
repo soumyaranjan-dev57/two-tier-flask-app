@@ -15,7 +15,7 @@ Stack: Python 3.13, Flask 3.1, gunicorn, PyMySQL, MySQL 8.4.
 - Docker with the Compose plugin (`docker compose`)
 - Git (optional, for cloning the repository)
 
-## Run with Docker Compose
+## Run with Docker Compose |
 
 1. Clone and enter the repo:
 
